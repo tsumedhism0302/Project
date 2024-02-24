@@ -1,0 +1,31 @@
+
+*
+{
+    max-width: 800px;
+    margin: auto;
+    border-width: 1px;
+    border-style: solid;
+    
+    
+}
+.header
+{
+    color: chocolate;
+    background-color: skyblue;
+}
+.header h1
+{
+    color: black;
+    font-size: 24;
+}
+
+.navbar *
+{
+
+    font-size: 20px;
+    padding: 10px;
+}
+
+.navbar{
+    background-color: aquamarine;
+}
